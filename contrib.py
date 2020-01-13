@@ -89,7 +89,6 @@ if folder in list_dir:
 
 cwd = os.getcwd()
 
-
 with open('head.rpy', 'r') as content_file:
     head = content_file.read()
 
